@@ -1,6 +1,12 @@
-# scientfic_file_converstion_tool
+# Scientfic_File_Converstion_Tool
 
 A web-based file conversion platform for cheminformatics and drug discovery workflows. This tool allows users to convert between various molecular file formats such as SMILES, MOL2, SDF, and visualize them using 2D molecular images.
+
+---
+
+## 🌐 Live 
+
+https://web-production-b4c53.up.railway.app/
 
 ---
 
@@ -57,9 +63,4 @@ A researcher uploads a SMILES string like `CCO`, and chooses MOL2 as output. The
 
 ---
 
-## 🌐 Live Demo / Deployment
-
-https://web-production-b4c53.up.railway.app/
-
----
 
