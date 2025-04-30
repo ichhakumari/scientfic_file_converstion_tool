@@ -1,4 +1,4 @@
-# Scientfic_File_Converstion_Tool
+# Scientfic_File_Converstion_Tool : CONV Ana
 
 A web-based file conversion platform for cheminformatics and drug discovery workflows. This tool allows users to convert between various molecular file formats such as SMILES, MOL2, SDF, and visualize them using 2D molecular images.
 
