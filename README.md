@@ -4,12 +4,6 @@ A web-based file conversion platform for cheminformatics and drug discovery work
 
 ---
 
-## 🌐 Live 
-
-https://web-production-4e327.up.railway.app/
-
----
-
 ## 🚀 Features
 
 - ✅ Convert SMILES to MOL2 and other chemical formats
