@@ -1,5 +1,7 @@
 # Scientfic_File_Converstion_Tool : CONV Ana
 
+live : https://web-production-4e327.up.railway.app/
+
 A web-based file conversion platform for cheminformatics and drug discovery workflows. This tool allows users to convert between various molecular file formats such as SMILES, MOL2, SDF, and visualize them using 2D molecular images.
 
 ---
@@ -56,5 +58,16 @@ A researcher uploads a SMILES string like `CCO`, and chooses MOL2 as output. The
 - Not all edge cases (e.g., malformed input) are fully covered
 
 ---
+
+<img width="1365" height="603" alt="image" src="https://github.com/user-attachments/assets/c6bef275-fb94-450e-a299-0eeb0c094173" />
+
+<img width="1362" height="605" alt="image" src="https://github.com/user-attachments/assets/07679520-bf41-4a9b-9909-c1c493f65c19" />
+
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/a7c26211-23de-486f-af97-aec2832d064d" />
+
+<img width="1353" height="592" alt="image" src="https://github.com/user-attachments/assets/55abf806-71a1-4cea-b082-7f2a9db0f425" />
+
+<img width="1365" height="599" alt="image" src="https://github.com/user-attachments/assets/afdecae3-3cb7-4684-b84b-171e6da5e2dc" />
+
 
 
